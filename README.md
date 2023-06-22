@@ -5,6 +5,7 @@
 - 🔭 Atualmente estou procurando uma oportunidade.
 - 🌱 Estudo Engenharia de Software, HTML5, CSS, Python  e Java 
 - 📫 Contate-me pelo E-mail: cezargithub@gmail.com
+<br>
 Gosto muito do Back-End mais quero ser Full-Stack
 
 <div style="display: inline_block"><br>
