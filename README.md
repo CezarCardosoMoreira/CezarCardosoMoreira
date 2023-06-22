@@ -3,8 +3,9 @@
 
 
 - 🔭 Atualmente estou procurando uma oportunidade.
-- 🌱 Estudo JavaScripts
+- 🌱 Estudo Engenharia de Software, HTML5, CSS, Python  e Java 
 - 📫 Contate-me pelo E-mail: cezargithub@gmail.com
+Gosto muito do Back-End mais quero ser Full-Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
