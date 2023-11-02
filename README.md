@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou procurando uma oportunidade.
-- 🌱 Estudo Engenharia de Software, PHP e Java 
+- 🌱 Estudo Engenharia de Software e Java 
 - 📫 Contate-me pelo E-mail: cezargithub@gmail.com
 <br>
 Gosto muito do Back-End :)
